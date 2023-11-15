@@ -1,3 +1,4 @@
+# ELK = Elasticsearch, Logstash, and Kibana
 # elk-with-terraform project
 
 Use the code provided to create an ELK stack.
